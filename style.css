@@ -5,7 +5,7 @@
 body {
     font-family: sans-serif;
 }
-.nav-container {
+.nav-container { 
     background-color: #333333; /* this nav container allows the color to extend past the end margins of nav */
 }
 .nav {
